@@ -1,3 +1,42 @@
 body {
   background-color: aliceblue;
 }
+
+.tg  {border-collapse:collapse;border-spacing:0;}
+        .tg td{border-color:black;border-style:solid;border-width:1px;font-size:14px;
+          overflow:hidden;padding:10px 5px;word-break:normal;}
+        .tg th{border-color:black;border-style:solid;border-width:1px;font-size:14px;
+          font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+        .tg .tg-de2y{border-color:#333333;text-align:left;vertical-align:top}
+
+td:nth-child(odd) {
+  background-color: #C1EEFF;
+}
+
+td:nth-child(even) {
+  background-color: #E2F7FF;
+}
+
+thead {
+  background-color: #006E90;
+  color: white;
+  font-family: 'Raleway', cursive;
+}
+
+td {
+  color: #462255;
+  font-family: 'Raleway', cursive;
+  padding: 2rem;
+}
+
+h1 {
+  font-family: 'Uncial Antiqua', cursive;
+}
+
+caption {
+  color: #462255;
+  font-family: 'Raleway', cursive;
+  text-align: left;
+  padding: 1rem;
+  padding-left: 0rem;
+}
